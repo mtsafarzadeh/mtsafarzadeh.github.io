@@ -6,7 +6,7 @@ subtitle: Principal Applied Scientist at <a href='https://www.oracle.com'>Oracle
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>San Francisco Bay Area, CA</p>
@@ -16,14 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
 I am a machine learning researcher and engineer working at the intersection of AI and science. Currently, I work as a Principal Applied Scientist at [Oracle](https://www.oracle.com), where I focus on fine-tuning and pre-training large language models (LLMs) for medical domain adaptation and generative AI applications.
