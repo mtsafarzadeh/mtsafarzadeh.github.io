@@ -2,9 +2,9 @@ cv:
   name: Mohammad Safarzadeh
   label: Principal Applied Scientist
   email: mtsafarzadeh@gmail.com
-  location: San Francisco Bay Area, CA
+  location: New York, NY
   image: ""
-  summary: Machine learning researcher and engineer working at the intersection of AI and science. PhD in Astrophysics from Johns Hopkins University, with postdoctoral research at Harvard. Currently focused on large language models, medical AI, and neural network optimization.
+  summary: Machine learning researcher and engineer working across large language models, generative AI, efficient neural networks, and scientific applications of machine learning.
 
   social_networks:
     - network: GitHub
@@ -33,7 +33,7 @@ cv:
         start_date: 2016
         end_date: 2019
         highlights:
-          - Postdoctoral research in astrophysics focusing on gravitational waves and the nature of dark matter.
+          - Conducted postdoctoral research in astrophysics with a focus on gravitational waves, dark matter, and high-energy phenomena.
 
     Experience:
       - company: Oracle
@@ -41,10 +41,10 @@ cv:
         location: Remote
         start_date: 2022
         end_date: present
-        summary: Working on generative AI, fine-tuning and pre-training large language models (LLMs) for medical domain adaptation.
+        summary: Leading work on large language models and generative AI, with an emphasis on domain adaptation and production-oriented research.
         highlights:
-          - Fine-tuning and pre-training LLMs for medical domain.
-          - Research on generative AI and its intersection with scientific domains.
+          - Fine-tuned and pre-trained LLMs for specialized domains including healthcare.
+          - Built research and applied ML workflows that connect model development with practical deployment needs.
 
       - company: Perceive
         position: Senior Machine Learning Engineer
@@ -52,8 +52,8 @@ cv:
         start_date: 2021
         end_date: 2022
         highlights:
-          - Contributed to neural network inference solutions.
-          - Developed lightweight and efficient neural network architectures for edge deployment.
+          - Developed efficient neural network inference solutions for edge deployment.
+          - Worked on lightweight model architectures and performance optimization.
 
       - company: FICO
         position: Scientist II
@@ -61,14 +61,14 @@ cv:
         start_date: 2019
         end_date: 2021
         highlights:
-          - Developed lightweight neural networks for fraud detection in credit card transactions.
-          - Applied machine learning techniques to high-stakes financial decision-making.
+          - Built machine learning models for credit card fraud detection.
+          - Applied ML methods in high-stakes financial decision systems.
 
     Skills:
       - name: Machine Learning & AI
         level: Expert
         icon: fa-solid fa-brain
-        keywords: "Large Language Models, Fine-tuning, Pre-training, Neural Networks, Deep Learning, PyTorch, TensorFlow, scikit-learn"
+        keywords: "Large Language Models, Fine-tuning, Pre-training, Generative AI, Neural Networks, Deep Learning, PyTorch, TensorFlow"
 
       - name: Programming
         level: Expert
@@ -78,13 +78,13 @@ cv:
       - name: Research
         level: Expert
         icon: fa-solid fa-microscope
-        keywords: "Astrophysics, Gravitational Waves, Dark Matter, High-Energy Astrophysics, Scientific ML"
+        keywords: "Astrophysics, Gravitational Waves, Dark Matter, High-Energy Astrophysics, Scientific Machine Learning"
 
     Interests:
-      - name: Machine Learning & LLMs
+      - name: Applied AI
         icon: fa-solid fa-robot
-        keywords: "Large Language Models, Medical AI, Neural Network Optimization, Generative AI"
+        keywords: "Large Language Models, Medical AI, Efficient Inference, Generative AI"
 
-      - name: Astrophysics
+      - name: Scientific Computing
         icon: fa-solid fa-star
-        keywords: "Gravitational Waves, Dark Matter, High-Energy Astrophysics, Compact Binary Systems"
+        keywords: "Astrophysics, Scientific Modeling, Gravitational Waves, Data-Driven Discovery"

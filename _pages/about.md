@@ -2,6 +2,8 @@
 layout: about
 title: about
 permalink: /
+nav: true
+nav_order: 1
 subtitle: Principal Applied Scientist at <a href='https://www.oracle.com'>Oracle</a>. PhD, Astrophysics · Johns Hopkins University.
 
 profile:
@@ -22,10 +24,8 @@ latest_posts:
   enabled: false
 ---
 
-I am a machine learning researcher and engineer working at the intersection of AI and science. Currently, I work as a Principal Applied Scientist at [Oracle](https://www.oracle.com), where I focus on fine-tuning and pre-training large language models (LLMs) for medical domain adaptation and generative AI applications.
+I am a machine learning researcher and engineer working at the intersection of AI and science. At [Oracle](https://www.oracle.com), I work on large language models, generative AI systems, and domain adaptation for high-impact applications including healthcare.
 
-I hold a PhD in Astrophysics from [Johns Hopkins University](https://www.jhu.edu/) (2016) and was a postdoctoral fellow at [Harvard University](https://www.harvard.edu/), where my research centered on gravitational waves, the nature of dark matter, and high-energy astrophysics — including AI-aided approaches to identify astrophysical sources of gravitational wave events.
+My background is in astrophysics. I earned my PhD from [Johns Hopkins University](https://www.jhu.edu/) and later held a postdoctoral fellowship at [Harvard University](https://www.harvard.edu/), where I studied gravitational waves, dark matter, and high-energy astrophysics. That research experience still shapes how I approach modeling, experimentation, and scientific rigor in modern AI systems.
 
-Before Oracle, I was a Senior ML Engineer at [Perceive](https://perceive.io/), developing efficient neural network inference solutions for edge deployment, and a Scientist at [FICO](https://www.fico.com/), building lightweight neural networks for credit card fraud detection.
-
-My work spans the full ML stack — from theoretical research to production systems — with a particular interest in applying modern deep learning to high-impact scientific and industrial problems.
+Before Oracle, I worked on efficient neural network inference at [Perceive](https://perceive.io/) and on fraud detection models at [FICO](https://www.fico.com/). Across these roles, my focus has remained consistent: building machine learning systems that are both technically strong and useful in real-world settings.
