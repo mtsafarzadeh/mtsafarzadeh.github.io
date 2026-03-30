@@ -2,8 +2,6 @@
 layout: about
 title: about
 permalink: /
-nav: true
-nav_order: 1
 subtitle: Principal Applied Scientist at <a href='https://www.oracle.com'>Oracle</a>. PhD, Astrophysics · Johns Hopkins University.
 
 profile:
