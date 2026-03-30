@@ -9,7 +9,7 @@ profile:
   image:
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>San Francisco Bay Area, CA</p>
+    <p>New York, NY</p>
     <p><a href="mailto:mtsafarzadeh@gmail.com">mtsafarzadeh@gmail.com</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
