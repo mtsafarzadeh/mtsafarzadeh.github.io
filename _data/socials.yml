@@ -2,9 +2,5 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 email: mtsafarzadeh@gmail.com # your email address
-github_username: mtsafarzadeh # your GitHub user name
-inspirehep_id: 1010907 # Inspire HEP author ID
 linkedin_username: mts1810 # your LinkedIn user name
-medium_username: mtsafarzadeh # your Medium username
-rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: 4yTtlesAAAAJ # your Google Scholar ID
