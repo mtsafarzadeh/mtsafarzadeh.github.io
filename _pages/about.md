@@ -22,13 +22,13 @@ latest_posts:
   enabled: false
 ---
 
-I work on the evaluation of coding LLMs, agents, retrieval-augmented generation systems, and related applied ML problems, with a particular focus on NL2SQL. At [Oracle](https://www.oracle.com), I work on large language models, generative AI systems, and domain adaptation for high-impact applications including healthcare.
+I work on the evaluation of code-generation LLMs, reasoning models, and retrieval-augmented generation systems, with a focus on making benchmarks more reliable, detecting data leakage, and improving NL2SQL evaluation. At [Oracle](https://www.oracle.com), I work on large language models, generative AI systems, and domain adaptation for high-impact applications including healthcare.
 
-Before Oracle, I worked at [Perceive](https://perceive.io/), where I focused on efficient neural network inference and lightweight models for edge deployment.
+Before Oracle, I worked at [Perceive](https://perceive.io/), where I focused on quantization-aware training, efficient neural network inference, and lightweight models for edge deployment.
 
 Before that, I was at [FICO](https://www.fico.com/), building machine learning models for credit card fraud detection and other high-stakes decision systems.
 
-My academic background is in astrophysics. I earned my PhD from [Johns Hopkins University](https://www.jhu.edu/) and later held a postdoctoral fellowship at [Harvard University](https://www.harvard.edu/), where I studied gravitational waves, dark matter, and high-energy astrophysics. That research experience still shapes how I approach modeling, experimentation, and scientific rigor in modern AI systems.
+My academic background is in astrophysics. I earned my PhD from [Johns Hopkins University](https://www.jhu.edu/) and later held a postdoctoral fellowship at [Harvard University](https://www.harvard.edu/), where I studied gravitational waves, dark matter, and high-energy astrophysics. That research training still shapes how I approach modeling, experimentation, and scientific rigor in modern AI systems.
 
 <p>
   <a class="btn btn-outline-primary btn-sm" href="/assets/pdf/Safarzadeh_cv.pdf" target="_blank" rel="noopener">Download CV (PDF)</a>
