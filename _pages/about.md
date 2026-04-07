@@ -6,7 +6,7 @@ subtitle: Principal Applied Scientist at <a href='https://www.oracle.com'>Oracle
 
 profile:
   align: right
-  image:
+  image: mts_headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>New York, NY</p>

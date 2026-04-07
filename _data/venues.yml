@@ -7,3 +7,7 @@
 
 "Vision":
   color: "#009f36"
+
+"ACL":
+  url: https://aclanthology.org/
+  color: "#b22222"
