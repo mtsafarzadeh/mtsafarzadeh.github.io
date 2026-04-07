@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Principal Applied Scientist at <a href='https://www.oracle.com'>Oracle</a>. PhD, Astrophysics · Johns Hopkins University.
+subtitle: Principal Applied Scientist at <a href='https://www.oracle.com'>Oracle</a> · Building and evaluating AI systems · PhD in Astrophysics, Johns Hopkins University.
 
 profile:
   align: right
@@ -22,7 +22,7 @@ latest_posts:
   enabled: false
 ---
 
-I work on the evaluation of code-generation LLMs, reasoning models, and retrieval-augmented generation systems, with a focus on making benchmarks more reliable, detecting data leakage, and improving NL2SQL evaluation. At [Oracle](https://www.oracle.com), I work on large language models, generative AI systems, and domain adaptation for high-impact applications including healthcare.
+I work on the evaluation of code-generation LLMs, reasoning models, and retrieval-augmented generation systems, with a focus on making benchmarks more reliable, detecting data leakage, and improving NL2SQL evaluation. At [Oracle](https://www.oracle.com), I also work on conflict resolution in RAG pipelines for financial-domain applications, alongside large language models, generative AI systems, and domain adaptation for high-impact use cases including healthcare.
 
 Before Oracle, I worked at [Perceive](https://perceive.io/), where I focused on quantization-aware training, efficient neural network inference, and lightweight models for edge deployment.
 
