@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Principal Applied Scientist at <a href='https://www.oracle.com'>Oracle</a> · Building and evaluating AI systems · PhD in Astrophysics, Johns Hopkins University.
+subtitle: Principal Applied Scientist at Oracle · Building and evaluating AI systems · PhD in Astrophysics, Johns Hopkins University.
 
 profile:
   align: right
@@ -22,13 +22,13 @@ latest_posts:
   enabled: false
 ---
 
-I work on the evaluation of code-generation LLMs, reasoning models, and retrieval-augmented generation systems, with a focus on making benchmarks more reliable, detecting data leakage, and improving NL2SQL evaluation. At [Oracle](https://www.oracle.com), I also work on conflict resolution in RAG pipelines for financial-domain applications, alongside large language models, generative AI systems, and domain adaptation for high-impact use cases including healthcare.
+I work on the evaluation of code-generation LLMs, reasoning models, and retrieval-augmented generation systems, with a focus on making benchmarks more reliable, detecting data leakage, and improving NL2SQL evaluation. At Oracle, I also work on conflict resolution in RAG pipelines for financial-domain applications, alongside large language models, generative AI systems, and domain adaptation for high-impact use cases including healthcare.
 
-Before Oracle, I worked at [Perceive](https://perceive.io/), where I focused on quantization-aware training, efficient neural network inference, and lightweight models for edge deployment.
+Before Oracle, I worked at Perceive, where I focused on quantization-aware training, efficient neural network inference, and lightweight models for edge deployment.
 
-Before that, I was at [FICO](https://www.fico.com/), building machine learning models for credit card fraud detection and other high-stakes decision systems.
+Before that, I was at FICO, building machine learning models for credit card fraud detection and other high-stakes decision systems.
 
-My academic background is in astrophysics. I earned my PhD from [Johns Hopkins University](https://www.jhu.edu/) and later held a postdoctoral fellowship at [Harvard University](https://www.harvard.edu/), where I studied gravitational waves, dark matter, and high-energy astrophysics. That research training still shapes how I approach modeling, experimentation, and scientific rigor in modern AI systems.
+My academic background is in astrophysics. I earned my PhD from Johns Hopkins University and held postdoctoral research positions at ASU, UCSC, Harvard, and NASA before moving into applied machine learning. That research training still shapes how I approach modeling, experimentation, and scientific rigor in modern AI systems.
 
 <p>
   <a class="btn btn-outline-primary btn-sm" href="/assets/pdf/Safarzadeh_cv.pdf" target="_blank" rel="noopener">Download CV (PDF)</a>
