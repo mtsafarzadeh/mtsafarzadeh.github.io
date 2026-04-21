@@ -34,3 +34,14 @@ My academic background is in astrophysics. I earned my PhD from Johns Hopkins Un
   <a class="btn btn-outline-primary btn-sm" href="/assets/pdf/Safarzadeh_cv.pdf" target="_blank" rel="noopener">Download CV (PDF)</a>
   <a class="btn btn-primary btn-sm" href="https://scholar.google.com/citations?user=4yTtlesAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar profile</a>
 </p>
+
+<div class="card mt-4">
+  <div class="card-body">
+    <h5 class="card-title mb-2">Featured project: Investment Advice Agent</h5>
+    <p class="card-text">
+      A Streamlit and LangGraph demo for a multi-agent retirement allocation workflow, with structured model outputs,
+      vector retrieval, knowledge-graph evidence, memory reuse, and LLM-as-judge conflict detection.
+    </p>
+    <a class="btn btn-outline-primary btn-sm" href="https://github.com/mtsafarzadeh/investment-advice-agent" target="_blank" rel="noopener">View project on GitHub</a>
+  </div>
+</div>
