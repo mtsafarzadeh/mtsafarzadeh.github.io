@@ -37,10 +37,11 @@ My academic background is in astrophysics. I earned my PhD from Johns Hopkins Un
 
 <div class="card mt-4">
   <div class="card-body">
-    <h5 class="card-title mb-2">Featured project: Investment Advice Agent</h5>
+    <h5 class="card-title mb-2">Toy multi-agent financial advising framework</h5>
     <p class="card-text">
-      A Streamlit and LangGraph demo for a multi-agent retirement allocation workflow, with structured model outputs,
-      vector retrieval, knowledge-graph evidence, memory reuse, and LLM-as-judge conflict detection.
+      A small Streamlit and LangGraph prototype for experimenting with multi-agent financial-advice workflows,
+      designed as an entry point for building more complex scenarios with structured outputs, retrieval,
+      knowledge-graph evidence, memory reuse, and LLM-as-judge conflict detection.
     </p>
     <a class="btn btn-outline-primary btn-sm" href="https://github.com/mtsafarzadeh/investment-advice-agent" target="_blank" rel="noopener">View project on GitHub</a>
   </div>
